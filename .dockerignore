@@ -4,3 +4,4 @@ npm-debug.log*
 .gitignore
 .env
 test-results.xml
+coverage.lcov
